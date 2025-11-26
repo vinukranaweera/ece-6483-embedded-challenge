@@ -1,1 +1,3 @@
-# ece-6483-embedded-challenge
+# Embedded Challenge
+
+Group 36
